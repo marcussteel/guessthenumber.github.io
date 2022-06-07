@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: linear-gradient(#fff, #f8b500); */
+   
+}
+body{
+    height: 100vh;
+    background: -webkit-linear-gradient(top left, #F58A62, #B9CBD0);
+    background: -o-linear-gradient(right, #F58A62, #B9CBD0); 
+    background: -moz-linear-gradient(right, #F58A62, #B9CBD0);
+    background: linear-gradient(to right, r#F58A62, #B9CBD0);
+}
+#inputguess{
+    width: 300px;
+    height: 40px;
+}
+main{
+
+}
